@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "Practica1/HazClasificacion/src/mx/izt/uam/am"
+        "Practica1/HazClasificacion/src/mx/izt/uam/am",
+        "CN2/src/weka/classifiers/rules"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
