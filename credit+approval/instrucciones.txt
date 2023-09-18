@@ -1,0 +1,18 @@
+Lleve a cabo una tarea completa de aprendizaje
+
+    1. Análisis exploratorio de datos
+    2. Decisión de mejor modelo para Clasificación con justificación
+        2.2 Utilice WEKA para sus experimentos
+    3. Tarea de aprendizaje
+    4. Resultados e interpretación
+        4.1 Que se desea obtener
+        4.2 ¿Qué tan preciso es el modelo?
+        4.3 Que acciones me permite llevar a cabo el modelo
+
+ Repositorio: http://archive.ics.uci.edu/dataset/27/credit+approval
+              https://www.kaggle.com/datasets/echo9k/uci-credit-approval
+
+analisis de los datos: http://rstudio-pubs-static.s3.amazonaws.com/73039_9946de135c0a49daa7a0a9eda4a67a72.html
+
+
+https://github.com/vriveraq/datacamp-projects/blob/master/Predicting%20Credit%20Card%20Approvals/Predicting_CreditCard_Approvals.ipynb
