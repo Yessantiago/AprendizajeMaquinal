@@ -16,3 +16,14 @@ analisis de los datos: http://rstudio-pubs-static.s3.amazonaws.com/73039_9946de1
 
 
 https://github.com/vriveraq/datacamp-projects/blob/master/Predicting%20Credit%20Card%20Approvals/Predicting_CreditCard_Approvals.ipynb
+
+--------------
+4 Factores que afectan la decisión de aprovación:
+
+    Prior default,
+    Years employed,
+    Credit score, and
+    Income level.
+
+Other variables such as age, sex, or ethnicity did not have an influence on whether the application was denied.
+
