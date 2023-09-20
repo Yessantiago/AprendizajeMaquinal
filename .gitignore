@@ -4,3 +4,6 @@
 *.lisp
 *.names
 Index
+*.zip
+*.Z
+README
