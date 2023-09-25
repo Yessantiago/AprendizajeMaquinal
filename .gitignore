@@ -5,3 +5,10 @@
 *.names
 Index
 /Mushroom
+*.html
+datos.csv
+datosLimpios.csv
+df_cleaned.csv
+new_data1.csv
+credit.ipynb
+tarea.ipynb
