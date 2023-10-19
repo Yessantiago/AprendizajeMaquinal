@@ -1,0 +1,7 @@
+Paso 1. Elegir concurso a atacar (por lo menos analizar 2)
+
+Paso2. Identificar tarea de aprendizaje y empezar a probar modelos.
+
+Paso 3. ELegir herramienta idonea y mejorar precisión lo más posible (parametros y/o datos)
+
+Paso 4. SUbir a Kaggle resultados (foto, captura) y subir notebook al sitio. 
