@@ -10,3 +10,5 @@ README
 credit+approval
 .pdf
 Hongos.ipynb
+*.parquet
+train_events copy.csv
